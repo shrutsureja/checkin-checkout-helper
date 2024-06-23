@@ -1,0 +1,6 @@
+node_modules
+secret.md
+.header.txt
+*.json
+*.log
+*.html
